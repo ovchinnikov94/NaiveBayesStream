@@ -1,0 +1,44 @@
+{   "root" : [
+	{"element" : {
+		"text" : "Я хочу кушать",
+		"label" : "true"
+	}
+	},
+	{"element" : {
+		"text" : "Мне нравится этот автомобиль",
+		"label" : "true"
+	}},
+	{"element" : {
+		"text" : "Мечтаю полететь в Майами",
+		"label" : "true"
+	}},
+	{"element" : {
+		"text" : "Я хочу спеть песню",
+		"label" : "true"
+	}},
+	{"element" : {
+		"text" : "Мне нравится летать на дельтаплане",
+		"label" : "true"
+	}},
+	{"element" : {
+		"text" : "Ненавижу бутерброды",
+		"label" : "false"
+	}},
+	{"element" : {
+		"text" : "Терпеть не могу этот запах",
+		"label" : "false"
+	}},
+	{"element" : {
+		"text" : "Мне противно от такой погоды",
+		"label" : "false"
+	}},
+	{"element" : {
+		"text" : "Какая мерзость - ваша заливная рыба",
+		"label" : "false"
+	}},
+	{"element" : {
+		"text" : "Этот виски - такая гадость",
+		"label" : "false"
+	}}  
+	]
+}
